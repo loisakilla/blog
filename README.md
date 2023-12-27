@@ -1,2 +1,2 @@
 ### Мини-проект: Блог начинающего верстальщика
-- <a href ="https://loisakilla.github.io/blog/">Ссылка на деплой</a>
+- <a href ="https://loisakilla.github.io/blog/">Деплой проекта</a>
